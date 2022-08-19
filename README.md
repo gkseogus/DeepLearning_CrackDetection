@@ -1,4 +1,4 @@
-# DeepLearning_CreakDetection
+# DeepLearning_CrackDetection
 # Crack Detection Using Deep Learning
 CNN(conv2D모델) 코드 경량화 및 최적화 완료
 
